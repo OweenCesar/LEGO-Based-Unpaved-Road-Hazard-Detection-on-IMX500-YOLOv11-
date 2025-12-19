@@ -49,7 +49,3 @@ Labels follow YOLO bounding-box format.
 - `green_area`
 
 ---
-
-├── yolo_export.py             # IMX export
-└── README.md
-# LEGO-Based-Unpaved-Road-Hazard-Detection-on-IMX500-YOLOv11-
