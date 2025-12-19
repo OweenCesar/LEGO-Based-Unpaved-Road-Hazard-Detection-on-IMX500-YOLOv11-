@@ -1,0 +1,3 @@
+stone
+pothole
+green_area

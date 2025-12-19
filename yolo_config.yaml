@@ -1,0 +1,7 @@
+train: ../my_training_data/data_split/train/images
+val: ../my_training_data/data_split/validation/images
+nc: 3
+names:
+- stone
+- pothole
+- green_area
